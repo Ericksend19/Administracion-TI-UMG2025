@@ -1,20 +1,30 @@
-# Proyecto de Calculadora en Java
+# Rama de Desarrollo - Proyecto de Calculadora en Java
 
 ## Descripción
-Este proyecto es una calculadora implementada en Java que permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.
+Esta es la rama de desarrollo del proyecto de calculadora en Java. Actualmente, se están trabajando y mejorando las funcionalidades principales de la calculadora, incluyendo:
+- **Suma**
+- **Resta**
+- **Multiplicación**
+- **División**
+
+## Estado del Proyecto
+En esta rama, se están implementando y probando las siguientes características:
+- 🛠️ Mejoras en la gestión de excepciones para la división entre cero.
+- 📌 Optimización del código para mejorar el rendimiento y la legibilidad.
 
 ## Requisitos
-Para ejecutar este proyecto, necesitarás:
+Para contribuir o probar esta versión en desarrollo, necesitarás:
 - **JDK 11** o superior
-- Cualquier **IDE compatible con Java** (Eclipse, IntelliJ IDEA, NetBeans, VS Code, etc.)
+- Un **IDE compatible con Java** (Eclipse, IntelliJ IDEA, NetBeans, VS Code, etc.)
 
 ## Instalación y Ejecución
-Sigue estos pasos para ejecutar la calculadora:
+Sigue estos pasos para ejecutar la versión en desarrollo de la calculadora:
 
-1. **Clonar el repositorio**
+1. **Clonar el repositorio y cambiar a la rama de desarrollo**
    ```sh
    git clone https://github.com/tu_usuario/calculadora-java.git
    cd calculadora-java
+   git checkout desarrollo
    ```
 
 2. **Abrir el proyecto en tu IDE favorito**
